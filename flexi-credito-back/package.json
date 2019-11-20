@@ -28,7 +28,7 @@
     "@nestjs/serve-static": "^1.0.1",
     "bcryptjs": "^2.4.3",
     "config": "^3.2.3",
-    "mongoose": "^5.7.4",
+    "mongoose": "^5.7.5",
     "onesignal-api-client-core": "^1.1.12",
     "onesignal-api-client-nest": "^1.0.8",
     "onesignal-node": "^2.1.1",
